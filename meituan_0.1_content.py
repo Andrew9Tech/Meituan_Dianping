@@ -23,7 +23,6 @@ import sys
 reload(sys) 
 sys.setdefaultencoding('utf-8')
 
-
 Row = []
 f = open(u"H:\\meituan\\shlogo.txt", "r+")
 for line in f.readlines():
